@@ -15,7 +15,6 @@ Given an integer, <i>n</i>, perform the following conditional actions:
 <li>If is <i>n</i> even and greater than 20, print <b>Not Weird</b></li>
 </ul>
 
-
 ### Input Format
 
 A single line containing a positive integer, <i>n</i>.
